@@ -26,7 +26,8 @@ Slatch is a mobile app that is the most conceptually similar to my proposed app,
 
 While the Slatch app is great in theory, it has many user experiene issues. I attempted to sign up for the app, but I never received the SMS message intended to confirm my phone number, despite repeated attempts, so I did not end up even being able to engage with the actual live app; this must have been one of the most frusturating experiences I've had as a user. Therefore, I looked at screenshots and other resources to perform my evaluation. Despite my setbacks, one positive thing I discovered about Slatch is its similarity to other messaging platforms, which makes it easy for those used to other platforms to pick up.
 
-<img width="1361" alt="Slatch Heuristic Evaluation" src="https://user-images.githubusercontent.com/25852597/231146004-247f5432-86df-4b83-b83e-bfaaeb079860.png">
+<img width="1361" alt="Slatch Heuristic Evaluation" src="https://user-images.githubusercontent.com/25852597/231148833-2d97e375-6d67-4f32-8b42-48c7ca2d2893.png">
+
 
 ## Conclusion
 By analyzing both the leading translation resource and the conceptually similar Slatch, I gained a lot of insight into the user experience decisions that go into both translation and messaging implementations, as well as what to avoid. I will bring these lessons with me as I move forward in my project, so that I can effectively Bridge inter-generational language gaps.
